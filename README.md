@@ -11,6 +11,8 @@ Steps to contribute to the playlist- <br />
 4) Click on connect wallet, and connect your wallet to the dapp <br />
 5) Enter desired song into the given textbox, confirm transaction and you are done! <br />
 
+Link to frontend Repo- https://github.com/parathaprat/Decentralist---Frontend.git
+
 
 ## Dapp-
 
